@@ -1,0 +1,10 @@
+pom.xml
+dev.env
+*jar
+/lib/
+/classes/
+/checkouts/
+/db/
+mongod.log
+.lein-failures
+.lein-deps-sum
