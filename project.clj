@@ -1,7 +1,7 @@
 (defproject sdbo/twinternational "0.0.1-SNAPSHOT"
   :description "Collecting data on Twinternational Trends."
   :dependencies [[org.clojure/clojure "1.3.0"]
-                 [pipes/pipes "0.0.1"]
+                 [pipes/pipes "0.0.2"]
                  [cheshire "2.0.6"]
                  [http.async.client "0.4.0"]
                  [slingshot "0.10.1"]
